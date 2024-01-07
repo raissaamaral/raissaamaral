@@ -1,7 +1,7 @@
 # Olá, sou Raíssa. Seja bem-vindo(a) :)
 
 - Bacharelanda em Ciência da Computação (UESC)
-- Atualmente aprendendo Java, Spring e SQL
+- Atualmente aprendendo Spring e SQL
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissamaral&count_private=true&show_icons=true&theme=dracula)
