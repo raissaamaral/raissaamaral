@@ -3,7 +3,7 @@
 - Bacharelanda em Ciência da Computação (UESC)
 - Estudando/praticando Java e Spring Boot
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissamaral&count_private=true&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissamaral&count_private=true&show_icons=true&theme=dracula) -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
